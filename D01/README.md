@@ -36,8 +36,6 @@ Each class must comply with SOLID principles:
 
 Today, you should focus on the first SOLID principle.
 
-![javanepunchman](misc/images/javanepunchman.png)
-
 # Chapter II
 ### General Rules
 - Use this page as the only reference. Do not listen to any rumors and speculations about how to prepare your solution.
