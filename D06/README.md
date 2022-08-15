@@ -65,9 +65,7 @@ Below are several best practices for module and integration testing:
     -	junit-jupiter-params
      -	junit-jupiter-api
 - All tests must be launchable by running mvn clean compile test command
-- Source code of the tested class must be fully covered in all implemented tests. Below is an example of a full coverage demonstration with IntelliJ IDEA for Exercise 00:
-
-![test](misc/images/test.png)
+- Source code of the tested class must be fully covered in all implemented tests.
 
 # Chapter IV
 ### Exercise 00 – First Tests
